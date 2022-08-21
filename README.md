@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Brendan, @MrMaverick79
-- 👀 I’m interested in programming languages and web development. I'm trying to learn as much as I can.
-- 🌱 I’m currently learning Ruby and Ruby on Rails (for now!)
-- 💞️ I’m looking to collaborate on anything and everything!
+I'm a Canberra-based aspiring software engineer who has been fascinated by technology since my very first Commodore 64.
+
+My energy comes from finding solutions to complex problems in creative ways and an unceasing curiosity abut learning new things.
+
+I aspire to improve digital equity--ensuring that everyone has a chance to benefit from our amazing technologies. As a former teacher, leader, and professional coach, I'm passionate about making sure my work helps those who most need it.
+
+If you are looking for someone who loves to code and loves to learn, get in touch!
+
 - 📫 How to reach me: 
   twitter: @newtr1ck
 

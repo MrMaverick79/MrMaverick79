@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brendan, @MrMaverick79
 I'm a Canberra-based aspiring software engineer who has been fascinated by technology since my very first Commodore 64.
 
-I'm energized by finding solutions to complex problems in creative ways and an unceasing curiosity abut learning new things.
+I'm energized by finding solutions to complex problems in creative ways and through an unceasing curiosity abut learning new things.
 
 I aspire to improve digital equity--ensuring that everyone has a chance to benefit from our amazing technologies. As a former teacher, leader, and professional coach, I'm passionate about making sure my work helps those who most need it.
 

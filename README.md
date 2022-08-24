@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brendan, @MrMaverick79
+👋 Hi, I’m Brendan, @MrMaverick79
 I'm a Canberra-based aspiring software engineer who has been fascinated by technology since my very first Commodore 64.
 
 I'm energized by finding solutions to complex problems in creative ways and through an unceasing curiosity abut learning new things.
@@ -7,8 +7,9 @@ I aspire to improve digital equity--ensuring that everyone has a chance to benef
 
 If you are looking for someone who loves to code and loves to learn, get in touch!
 
-- 📫 How to reach me: 
-  twitter: @newtr1ck
+ 📫 How to reach me: 
+ twitter: @newtr1ck
+ brendan.tuckerman@gmail.com
 
 <!---
 MrMaverick79/MrMaverick79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

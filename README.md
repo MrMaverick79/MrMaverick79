@@ -1,7 +1,7 @@
 👋 Hi, I’m Brendan, @MrMaverick79
 
 
-I'm a Canberra-based aspiring software engineer who has been fascinated by technology since my very first Commodore 64.
+I'm an aspiring software engineer who has been fascinated by technology since my very first Commodore 64.
 
 I'm energized by finding solutions to complex problems in creative ways and through an unceasing curiosity abut learning new things.
 

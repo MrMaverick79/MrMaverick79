@@ -1,7 +1,7 @@
 👋 Hi, I’m Brendan, @MrMaverick79
 
 
-I'm an aspiring software engineer who has been fascinated by technology since my very first Commodore 64.
+I'm web devleoper who has been fascinated by technology since my very first Commodore 64.
 
 I'm energized by finding solutions to complex problems in creative ways and through an unceasing curiosity abut learning new things.
 
@@ -10,7 +10,7 @@ I aspire to improve digital equity--ensuring that everyone has a chance to benef
 If you are looking for someone who loves to code and loves to learn, get in touch!
 
  📫 How to reach me: 
- twitter: @newtr1ck
+ https://fosstodon.org/@mrmaverick
  brendan.tuckerman@gmail.com
 
 <!---

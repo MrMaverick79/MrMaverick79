@@ -1,7 +1,7 @@
 👋 Hi, I’m Brendan, @MrMaverick79
 
 
-I'm web devleoper who has been fascinated by technology since my very first Commodore 64.
+I'm web developer who has been fascinated by technology since my very first Commodore 64.
 
 I'm energized by finding solutions to complex problems in creative ways and through an unceasing curiosity abut learning new things.
 
